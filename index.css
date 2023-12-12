@@ -1,0 +1,56 @@
+.vert-1{
+    font-size: 25px;
+    background-color: rgb(82, 8, 82);
+    margin: 0 auto;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.vert-2 {
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    background-color: darkseagreen;
+    max-width: 15%;
+    border: double;
+
+}
+
+.vert-3 {
+    font-size: 16px;
+    background-color:rgb(233, 142, 142);
+    max-width: 65%;
+    margin: auto;
+    height: 500px;
+    top: 50px;
+    
+   
+}
+.vert-4 {
+    font-size: 16px;
+    background-color: white;
+    max-width: 15%;
+    text-align:right;
+    justify-self: right;
+    
+ 
+    
+
+}
+.vert-5 {
+    font-size: 16px;
+    background-color: rgb(82, 22, 192);
+    margin: auto;
+    height: 55px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
